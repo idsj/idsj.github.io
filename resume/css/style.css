@@ -337,7 +337,7 @@ address span {
 	margin-right:5%;
 }
 .details{
-	width:30%;
+	width:100%;
 }
 }
 @media (max-width: 640px){
@@ -423,7 +423,7 @@ address {
   width: 91%;
 }
 .details {
-  width: 42%;
+  width: 100%;
 }
 .details_header {
   padding: 0em 0em 0 1em;
