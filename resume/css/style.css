@@ -338,7 +338,6 @@ address span {
 }
 .details{
 	width:30%;
-	float:right;
 }
 }
 @media (max-width: 640px){
@@ -356,7 +355,6 @@ address span {
 }
 .details{
 	width:30%;
-	float:right;
 }
 .sidebar img{
 	width:100%;
@@ -443,7 +441,7 @@ address {
   font-size: 1.2em;
 }
 .details {
-  width: 45%;
+  width: 100%;
 }
 .details_header ul {
   text-align: center;
